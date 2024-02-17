@@ -56,8 +56,8 @@ body {
 
 ### Useful resources
 
-- [Example resource 1](https://stackoverflow.com/questions/53038964/how-to-use-downloaded-font-in-css) - This article helped me to how to use downloaded font-styles in css.
-- [Example resource 2](https://www.w3schools.com/cssref/pr_dim_max-width.php) - This is an amazing article which helped me finally understand max-width. I'd recommend it to anyone still learning this concept.
+- [Artical about how to use downloaded font in css](https://stackoverflow.com/questions/53038964/how-to-use-downloaded-font-in-css) - This article helped me to how to use downloaded font-styles in css.
+- [Tutorial about how to set max-width property in css](https://www.w3schools.com/cssref/pr_dim_max-width.php) - This is an amazing article which helped me finally understand max-width. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
