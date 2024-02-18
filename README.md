@@ -29,8 +29,8 @@ Mobile solution preview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-css-flexbox-grid-and-media-queries-methods-in-this-challenge-PeGWCKT90M)
-- Live Site URL: [Add live site URL here](https://vignesh470.github.io/Recipe-page/)
+- Solution URL: [Recipe page challenge solution here](https://www.frontendmentor.io/solutions/i-used-css-flexbox-grid-and-media-queries-methods-in-this-challenge-PeGWCKT90M)
+- Live Site URL: [Recipe page live site here](https://vignesh470.github.io/Recipe-page/)
 
 ## My process
 
